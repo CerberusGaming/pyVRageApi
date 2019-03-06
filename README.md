@@ -1,5 +1,5 @@
 # Python VRage Rest API
-# Please note this is still under heady development and should not be used in any production environments (yet.)
+# Please note this is still under heavy development and should not be used in any production environments (yet.)
 
 At the moment this simply generates the ability to do rest calls against a VRage-based game over its remote admin api.
 
